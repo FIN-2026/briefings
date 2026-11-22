@@ -17,6 +17,8 @@ A very simple static website for sharing these briefings. No Wix, no Elementor, 
 | `Paper 1 - The Regulatory Landscape_FIN.pdf` | Paper 1 |
 | `Paper 2 - Corporate Holdings_FIN.pdf` | Paper 2 |
 | `Paper 3 - Israeli Sovereign Debt_FIN.pdf` | Paper 3 |
+| `Paper 3 Companion - Developments and Sources_FIN.pdf` | Paper 3 companion note |
+| `E1 Settlement Finance Briefing_FIN.pdf` | E1 briefing note (Nov 2026) |
 | `README.md` | These instructions |
 
 Do not rename the PDFs or the logo unless you also update the matching links in `index.html`.
