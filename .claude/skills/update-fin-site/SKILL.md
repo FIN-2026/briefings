@@ -20,6 +20,22 @@ The account holder has **no software or technical background**. She publishes br
 7. **Finish by telling her exactly what to look at**: the live link, what she should see, and what to tell you if it looks wrong. If you cannot check the live site yourself (this environment's network may block it), say so clearly rather than implying it is verified.
 8. **Be honest about failures.** If something did not work, say so in plain words, say what it means for her, and say what you will do next. Do not pretend it worked.
 9. Keep replies short. No long summaries or tables unless she asks.
+10. **She reads everything you write, including the short notes between steps.** While you work, write almost nothing: at most one plain sentence at the start ("I'll update the heading now"). Do not narrate checks, previews, file names, or saving. Then give **one single final message** (see template below). Never send two summaries, and never repeat a message.
+11. **Ask the publish question exactly once, as the very last line of your reply**, and put nothing after it. Never ask it twice.
+12. **Banned phrases**, with what to say instead: "private working copy", "branch", "saved a copy" -> say "I haven't published anything yet"; "responsive", "viewport", "heading fits" -> say "it looks right on a computer and on a phone"; "links point to real files" -> say "all the links work". Do not mention capital letters, styling, or CSS unless she asked about them; just tell her how it will look.
+
+## Final message template (use this shape every time)
+
+Keep it to about five short lines:
+
+1. **What I changed**, in her words (e.g. "I changed the heading for Paper 3 to 'Paper 3 | Updated October 2026'.").
+2. **How it looks**: one sentence, e.g. "It looks right on a computer and on a phone, and all the links work."
+3. **Status**: "Nothing is live yet. Visitors still see the old version."
+4. **The question**, last line: "Shall I publish it now? Anyone with the link will be able to see it."
+
+If anything looks different from what she asked for (for example, the site shows headings in capitals), mention it in one plain sentence inside point 2, not as a separate paragraph.
+
+After she says yes and you have published, send one more short message: "It's published. It can take about two minutes to appear. Please open https://fin-2026.github.io/briefings/ and check [what to look for]. Tell me if anything looks wrong."
 
 ## How the site works (for you, not to explain unless asked)
 
